@@ -1,0 +1,2618 @@
+{"game" : {
+  "definition":[{
+    "size": 25
+  },
+  {
+    "turn": 1,
+    "phase": 5
+  },
+  {
+    "units": [
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 2,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 3,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {     
+            "type":"Custom",
+            "typeTag":"TheBrain",
+            "imageTag":"TheBrain.png",
+            "player": 1,
+            "movefactor": 4,
+            "attackFactor": 1,
+            "defenseFactor": 1,
+            "range": 1,
+            "row": 4,
+            "col": 4,
+            "turnOfAppearance":0,
+            "splittable":false
+      },
+      {"type":"Custom","typeTag":"Catapult","imageTag":"catapult.png","player":2,"movefactor":"1","attackFactor":"6","defenseFactor":"1","range":"3","row":7,"col":6,"turnOfAppearance":0,"splittable":false,"era":"Pre-Historic"},
+      {"type":"Custom","typeTag":"SpecialForces","imageTag":"SpecialForces.png","player":1,"movefactor":"5","attackFactor":"2","defenseFactor":"2","range":"2","row":7,"col":7,"turnOfAppearance":0,"splittable":false},
+      {
+          "type":"Custom",
+          "player":1,
+          "movefactor":"3",
+          "attackFactor":"0",
+          "defenseFactor":"0",
+          "range":"1",
+          "row":8,
+          "col":5,
+          "turnOfAppearance":0,
+          "era":"Medieval",
+          "typeTag":"Earl of Warwick",
+          "imageTag":"Warwick.png",
+          "splittable":false,
+          "ZOC":false,
+          "role":"leader",
+          "shape": "circle"
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 4,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 5,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 6,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 2,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 3,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 4,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 5,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 6,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 2,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 3,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 4,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 5,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 22,
+        "col": 6,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 23,
+        "col": 3,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 23,
+        "col": 3,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 23,
+        "col": 4,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 23,
+        "col": 5,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 23,
+        "col": 6,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 23,
+        "col": 4,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 23,
+        "col": 5,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 23,
+        "col": 5,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "OrcOfMordor",
+        "imageTag": "OrcOfMordor.png",
+        "player": 1,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 23,
+        "col": 6,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "Haradrim",
+        "imageTag": "Oliphant.png",
+        "player": 1,
+        "movefactor": 3,
+        "attackFactor": 6,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 23,
+        "col": 9,
+        "turnOfAppearance": 0,
+        "splittable": true,
+        "shape" : "triangle"
+      },
+      {
+        "type": "Custom",
+        "typeTag": "Haradrim",
+        "imageTag": "Oliphant.png",
+        "player": 1,
+        "movefactor": 3,
+        "attackFactor": 6,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 23,
+        "col": 10,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "Haradrim",
+        "imageTag": "Oliphant.png",
+        "player": 1,
+        "movefactor": 3,
+        "attackFactor": 6,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 23,
+        "col": 11,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+        "type": "Custom",
+        "typeTag": "Haradrim",
+        "imageTag": "Oliphant.png",
+        "player": 1,
+        "movefactor": 3,
+        "attackFactor": 6,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 24,
+        "col": 9,
+        "turnOfAppearance": 0,
+        "splittable": true
+      },
+      {
+            "type": "Custom",
+            "typeTag": "Battleship",
+            "imageTag": "Battleship.png",
+            "player": 1,
+            "movefactor": 4,
+            "attackFactor": "5",
+            "defenseFactor": "5",
+            "range": "3",
+            "row": 20,
+            "col": 5,
+            "turnOfAppearance": 0,
+            "splittable": false,
+            "ZOC" : true,
+            "role": "combat_unit",
+            "shape": "triangle"
+      },
+      {"type":"Custom","player":1,"movefactor":"1","attackFactor":"1","defenseFactor":"0","range":"1","row":7,"col":10,"turnOfAppearance":0,"era":"Post-Modern 1","typeTag":"Pinky","imageTag":"pinky.png","splittable":false,"ZOC":false,"role":"leader","shape":"circle"},
+      {
+            "type": "Custom",
+            "typeTag": "Battleship",
+            "imageTag": "Battleship.png",
+            "player": 2,
+            "movefactor": 4,
+            "attackFactor": "5",
+            "defenseFactor": "5",
+            "range": "3",
+            "row": 2,
+            "col": 2,
+            "turnOfAppearance": 0,
+            "splittable": false,
+            "ZOC": true,
+            "role": "combat_unit",
+            "shape": "triangle"
+      },      
+      {
+        "type": "Custom",
+        "typeTag": "Nazgul",
+        "imageTag": "Nazgul.png",
+        "player": 1,
+        "movefactor": 4,
+        "attackFactor": 10,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": -1,
+        "col": -1,
+        "turnOfAppearance": 3,
+        "splittable": false
+      },
+      {
+            "type": "Custom",
+            "typeTag": "Tank",
+            "imageTag": "tank.jpg",
+            "player": 1,
+            "movefactor": "4",
+            "attackFactor": "3",
+            "defenseFactor": "3",
+            "range": "2",
+            "row": 3,
+            "col": 3,
+            "turnOfAppearance": 0,
+            "splittable": true
+      },
+      {
+        "type": "Cavalry",
+        "player": 2,
+        "movefactor": 4,
+        "attackFactor": 6,
+        "defenseFactor": 4,
+        "range": 1,
+        "row": 10,
+        "col": 10,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Cavalry",
+        "player": 2,
+        "movefactor": 4,
+        "attackFactor": 6,
+        "defenseFactor": 4,
+        "range": 1,
+        "row": 10,
+        "col": 10,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Cavalry",
+        "player": 2,
+        "movefactor": 4,
+        "attackFactor": 6,
+        "defenseFactor": 4,
+        "range": 1,
+        "row": 10,
+        "col": 10,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Cavalry",
+        "player": 2,
+        "movefactor": 4,
+        "attackFactor": 6,
+        "defenseFactor": 4,
+        "range": 1,
+        "row": -1,
+        "col": -1,
+        "turnOfAppearance": 10
+      },
+      {
+        "type": "Cavalry",
+        "player": 2,
+        "movefactor": 4,
+        "attackFactor": 6,
+        "defenseFactor": 4,
+        "range": 1,
+        "row": -1,
+        "col": -1,
+        "turnOfAppearance": 10
+      },
+      {
+        "type": "Cavalry",
+        "player": 2,
+        "movefactor": 4,
+        "attackFactor": 6,
+        "defenseFactor": 4,
+        "range": 1,
+        "row": -1,
+        "col": -1,
+        "turnOfAppearance": 10
+      },
+      {
+        "type": "Cavalry",
+        "player": 2,
+        "movefactor": 4,
+        "attackFactor": 6,
+        "defenseFactor": 4,
+        "range": 1,
+        "row": -1,
+        "col": -1,
+        "turnOfAppearance": 10
+      },
+      {
+        "type": "Cavalry",
+        "player": 2,
+        "movefactor": 4,
+        "attackFactor": 6,
+        "defenseFactor": 4,
+        "range": 1,
+        "row": -1,
+        "col": -1,
+        "turnOfAppearance": 10
+      },
+      {
+        "type": "Cavalry",
+        "player": 2,
+        "movefactor": 4,
+        "attackFactor": 6,
+        "defenseFactor": 4,
+        "range": 1,
+        "row": -1,
+        "col": -1,
+        "turnOfAppearance": 10
+      },
+      {
+        "type": "Cavalry",
+        "player": 2,
+        "movefactor": 4,
+        "attackFactor": 6,
+        "defenseFactor": 4,
+        "range": 1,
+        "row": -1,
+        "col": -1,
+        "turnOfAppearance": 10
+      },
+      {
+        "type": "Cavalry",
+        "player": 2,
+        "movefactor": 4,
+        "attackFactor": 6,
+        "defenseFactor": 4,
+        "range": 1,
+        "row": -1,
+        "col": -1,
+        "turnOfAppearance": 10
+      },
+      {
+        "type": "Infantry",
+        "player": 2,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 9,
+        "col": 9,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Infantry",
+        "player": 2,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 10,
+        "col": 8,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Infantry",
+        "player": 2,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 11,
+        "col": 9,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Infantry",
+        "player": 2,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 12,
+        "col": 9,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Infantry",
+        "player": 2,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 12,
+        "col": 10,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Infantry",
+        "player": 2,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 12,
+        "col": 11,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Infantry",
+        "player": 2,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 11,
+        "col": 12,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Infantry",
+        "player": 2,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 10,
+        "col": 12,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Infantry",
+        "player": 2,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 9,
+        "col": 12,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Infantry",
+        "player": 2,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 12,
+        "col": 9,
+        "turnOfAppearance": 0
+      },
+      {
+        "type": "Infantry",
+        "player": 2,
+        "movefactor": 2,
+        "attackFactor": 4,
+        "defenseFactor": 0,
+        "range": 1,
+        "row": 12,
+        "col": 10,
+        "turnOfAppearance": 0
+      }
+    ]
+  },
+  {
+    "hexes": [
+      {
+        "rows": 25,
+        "cols": 15,
+        "size": 25
+      },
+      {
+        "row": 1,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 1,
+        "column": 2,
+        "terrain": 3,
+        "improvement": 2
+      },
+      {
+        "row": 1,
+        "column": 3,
+        "terrain": 4
+      },
+      {
+        "row": 1,
+        "column": 4,
+        "terrain": 4
+      },
+      {
+        "row": 1,
+        "column": 5,
+        "terrain": 4
+      },
+      {
+        "row": 1,
+        "column": 6,
+        "terrain": 4
+      },
+      {
+        "row": 1,
+        "column": 7,
+        "terrain": 4
+      },
+      {
+        "row": 1,
+        "column": 8,
+        "terrain": 4
+      },
+      {
+        "row": 1,
+        "column": 9,
+        "terrain": 4
+      },
+      {
+        "row": 1,
+        "column": 10,
+        "terrain": 4
+      },
+      {
+        "row": 1,
+        "column": 11,
+        "terrain": 4
+      },
+      {
+        "row": 1,
+        "column": 12,
+        "terrain": 4
+      },
+      {
+        "row": 1,
+        "column": 13,
+        "terrain": 4
+      },
+      {
+        "row": 1,
+        "column": 14,
+        "terrain": 4
+      },
+      {
+        "row": 1,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 2,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 2,
+        "column": 2,
+        "terrain": 3,
+        "improvement": 2
+      },
+      {
+        "row": 2,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 2,
+        "column": 4,
+        "terrain": 4
+      },
+      {
+        "row": 2,
+        "column": 5,
+        "terrain": 4
+      },
+      {
+        "row": 2,
+        "column": 6,
+        "terrain": 4
+      },
+      {
+        "row": 2,
+        "column": 7,
+        "terrain": 4
+      },
+      {
+        "row": 2,
+        "column": 8,
+        "terrain": 4
+      },
+      {
+        "row": 2,
+        "column": 9,
+        "terrain": 4
+      },
+      {
+        "row": 2,
+        "column": 10,
+        "terrain": 4
+      },
+      {
+        "row": 2,
+        "column": 11,
+        "terrain": 4
+      },
+      {
+        "row": 2,
+        "column": 12,
+        "terrain": 4
+      },
+      {
+        "row": 2,
+        "column": 13,
+        "terrain": 4
+      },
+      {
+        "row": 2,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 2,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 3,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 3,
+        "column": 2,
+        "terrain": 3,
+        "improvement": 2
+      },
+      {
+        "row": 3,
+        "column": 3,
+        "terrain": 3,
+        "improvement": 2
+      },
+      {
+        "row": 3,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 3,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 3,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 3,
+        "column": 7,
+        "terrain": 4
+      },
+      {
+        "row": 3,
+        "column": 8,
+        "terrain": 4
+      },
+      {
+        "row": 3,
+        "column": 9,
+        "terrain": 4
+      },
+      {
+        "row": 3,
+        "column": 10,
+        "terrain": 4
+      },
+      {
+        "row": 3,
+        "column": 11,
+        "terrain": 4
+      },
+      {
+        "row": 3,
+        "column": 12,
+        "terrain": 4
+      },
+      {
+        "row": 3,
+        "column": 13,
+        "terrain": 4
+      },
+      {
+        "row": 3,
+        "column": 14,
+        "terrain": 4
+      },
+      {
+        "row": 3,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 4,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 4,
+        "column": 2,
+        "terrain": 3,
+        "improvement": 2
+      },
+      {
+        "row": 4,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 4,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 4,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 4,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 4,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 4,
+        "column": 8,
+        "terrain": 4
+      },
+      {
+        "row": 4,
+        "column": 9,
+        "terrain": 4
+      },
+      {
+        "row": 4,
+        "column": 10,
+        "terrain": 4
+      },
+      {
+        "row": 4,
+        "column": 11,
+        "terrain": 4
+      },
+      {
+        "row": 4,
+        "column": 12,
+        "terrain": 4
+      },
+      {
+        "row": 4,
+        "column": 13,
+        "terrain": 4
+      },
+      {
+        "row": 4,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 4,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 5,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 5,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 5,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 5,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 5,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 5,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 5,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 5,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 5,
+        "column": 9,
+        "terrain": 4
+      },
+      {
+        "row": 5,
+        "column": 10,
+        "terrain": 4
+      },
+      {
+        "row": 5,
+        "column": 11,
+        "terrain": 4
+      },
+      {
+        "row": 5,
+        "column": 12,
+        "terrain": 4
+      },
+      {
+        "row": 5,
+        "column": 13,
+        "terrain": 4
+      },
+      {
+        "row": 5,
+        "column": 14,
+        "terrain": 4
+      },
+      {
+        "row": 5,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 6,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 6,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 6,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 6,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 6,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 6,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 6,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 6,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 6,
+        "column": 9,
+        "terrain": 4
+      },
+      {
+        "row": 6,
+        "column": 10,
+        "terrain": 4
+      },
+      {
+        "row": 6,
+        "column": 11,
+        "terrain": 4
+      },
+      {
+        "row": 6,
+        "column": 12,
+        "terrain": 4
+      },
+      {
+        "row": 6,
+        "column": 13,
+        "terrain": 3
+      },
+      {
+        "row": 6,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 6,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 7,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 7,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 7,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 7,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 7,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 7,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 7,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 7,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 7,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 7,
+        "column": 10,
+        "terrain": 4
+      },
+      {
+        "row": 7,
+        "column": 11,
+        "terrain": 4
+      },
+      {
+        "row": 7,
+        "column": 12,
+        "terrain": 4
+      },
+      {
+        "row": 7,
+        "column": 13,
+        "terrain": 3
+      },
+      {
+        "row": 7,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 7,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 8,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 8,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 8,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 8,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 8,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 8,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 8,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 8,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 8,
+        "column": 9,
+        "terrain": 4
+      },
+      {
+        "row": 8,
+        "column": 10,
+        "terrain": 4
+      },
+      {
+        "row": 8,
+        "column": 11,
+        "terrain": 4
+      },
+      {
+        "row": 8,
+        "column": 12,
+        "terrain": 4
+      },
+      {
+        "row": 8,
+        "column": 13,
+        "terrain": 3
+      },
+      {
+        "row": 8,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 8,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 9,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 9,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 9,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 9,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 9,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 9,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 9,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 9,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 9,
+        "column": 9,
+        "terrain": 3,
+        "improvement": 7
+      },
+      {
+        "row": 9,
+        "column": 10,
+        "terrain": 4
+      },
+      {
+        "row": 9,
+        "column": 11,
+        "terrain": 4
+      },
+      {
+        "row": 9,
+        "column": 12,
+        "terrain": 3,
+        "improvement": 7
+      },
+      {
+        "row": 9,
+        "column": 13,
+        "terrain": 3
+      },
+      {
+        "row": 9,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 9,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 8,
+        "terrain": 3,
+        "improvement": 7
+      },
+      {
+        "row": 10,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 12,
+        "terrain": 3,
+        "improvement": 7
+      },
+      {
+        "row": 10,
+        "column": 13,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 10,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 9,
+        "terrain": 3,
+        "improvement": 7
+      },
+      {
+        "row": 11,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 12,
+        "terrain": 3,
+        "improvement": 7
+      },
+      {
+        "row": 11,
+        "column": 13,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 11,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 12,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 12,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 12,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 12,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 12,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 12,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 12,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 12,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 12,
+        "column": 9,
+        "terrain": 3,
+        "improvement": 7
+      },
+      {
+        "row": 12,
+        "column": 10,
+        "terrain": 3,
+        "improvement": 7
+      },
+      {
+        "row": 12,
+        "column": 11,
+        "terrain": 3,
+        "improvement": 7
+      },
+      {
+        "row": 12,
+        "column": 12,
+        "terrain": 3
+      },
+      {
+        "row": 12,
+        "column": 13,
+        "terrain": 3
+      },
+      {
+        "row": 12,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 12,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 12,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 13,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 13,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 12,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 13,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 14,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 12,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 13,
+        "terrain": 3
+      },
+      {
+        "row": 15,
+        "column": 14
+      },
+      {
+        "row": 15,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 12,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 13
+      },
+      {
+        "row": 16,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 16,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 17,
+        "column": 1,
+        "terrain": 1
+      },
+      {
+        "row": 17,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 17,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 17,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 17,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 17,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 17,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 17,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 17,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 17,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 17,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 17,
+        "column": 12,
+        "terrain": 3
+      },
+      {
+        "row": 17,
+        "column": 13
+      },
+      {
+        "row": 17,
+        "column": 14
+      },
+      {
+        "row": 17,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 18,
+        "column": 1,
+        "terrain": 1
+      },
+      {
+        "row": 18,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 18,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 18,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 18,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 18,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 18,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 18,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 18,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 18,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 18,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 18,
+        "column": 12
+      },
+      {
+        "row": 18,
+        "column": 13
+      },
+      {
+        "row": 18,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 18,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 19,
+        "column": 1,
+        "terrain": 1
+      },
+      {
+        "row": 19,
+        "column": 2,
+        "terrain": 1
+      },
+      {
+        "row": 19,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 19,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 19,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 19,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 19,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 19,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 19,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 19,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 19,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 19,
+        "column": 12,
+        "terrain": 3
+      },
+      {
+        "row": 19,
+        "column": 13
+      },
+      {
+        "row": 19,
+        "column": 14
+      },
+      {
+        "row": 19,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 20,
+        "column": 1,
+        "terrain": 1
+      },
+      {
+        "row": 20,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 20,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 20,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 20,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 20,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 20,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 20,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 20,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 20,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 20,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 20,
+        "column": 12
+      },
+      {
+        "row": 20,
+        "column": 13
+      },
+      {
+        "row": 20,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 20,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 21,
+        "column": 1,
+        "terrain": 1
+      },
+      {
+        "row": 21,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 21,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 21,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 21,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 21,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 21,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 21,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 21,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 21,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 21,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 21,
+        "column": 12
+      },
+      {
+        "row": 21,
+        "column": 13
+      },
+      {
+        "row": 21,
+        "column": 14
+      },
+      {
+        "row": 21,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 7,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 8,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 12
+      },
+      {
+        "row": 22,
+        "column": 13
+      },
+      {
+        "row": 22,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 22,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 23,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 23,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 23,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 23,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 23,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 23,
+        "column": 6,
+        "terrain": 3
+      },
+      {
+        "row": 23,
+        "column": 7,
+        "terrain": 1
+      },
+      {
+        "row": 23,
+        "column": 8,
+        "terrain": 1
+      },
+      {
+        "row": 23,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 23,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 23,
+        "column": 11,
+        "terrain": 3
+      },
+      {
+        "row": 23,
+        "column": 12
+      },
+      {
+        "row": 23,
+        "column": 13
+      },
+      {
+        "row": 23,
+        "column": 14
+      },
+      {
+        "row": 23,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 24,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 24,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 24,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 24,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 24,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 24,
+        "column": 6,
+        "terrain": 1
+      },
+      {
+        "row": 24,
+        "column": 7,
+        "terrain": 1
+      },
+      {
+        "row": 24,
+        "column": 8,
+        "terrain": 1
+      },
+      {
+        "row": 24,
+        "column": 9,
+        "terrain": 3
+      },
+      {
+        "row": 24,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 24,
+        "column": 11
+      },
+      {
+        "row": 24,
+        "column": 12
+      },
+      {
+        "row": 24,
+        "column": 13
+      },
+      {
+        "row": 24,
+        "column": 14,
+        "terrain": 3
+      },
+      {
+        "row": 24,
+        "column": 15,
+        "terrain": 3
+      },
+      {
+        "row": 25,
+        "column": 1,
+        "terrain": 3
+      },
+      {
+        "row": 25,
+        "column": 2,
+        "terrain": 3
+      },
+      {
+        "row": 25,
+        "column": 3,
+        "terrain": 3
+      },
+      {
+        "row": 25,
+        "column": 4,
+        "terrain": 3
+      },
+      {
+        "row": 25,
+        "column": 5,
+        "terrain": 3
+      },
+      {
+        "row": 25,
+        "column": 6,
+        "terrain": 1
+      },
+      {
+        "row": 25,
+        "column": 7,
+        "terrain": 1
+      },
+      {
+        "row": 25,
+        "column": 8,
+        "terrain": 1
+      },
+      {
+        "row": 25,
+        "column": 9,
+        "terrain": 1
+      },
+      {
+        "row": 25,
+        "column": 10,
+        "terrain": 3
+      },
+      {
+        "row": 25,
+        "column": 11
+      },
+      {
+        "row": 25,
+        "column": 12
+      },
+      {
+        "row": 25,
+        "column": 13
+      },
+      {
+        "row": 25,
+        "column": 14
+      },
+      {
+        "row": 25,
+        "column": 15,
+        "terrain": 3
+      }
+    ]
+  }
+]}}

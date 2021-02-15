@@ -1,0 +1,954 @@
+{
+    "game": {
+      "definition": [
+        {
+          "size": 25
+        },
+        {
+          "turn": 1,
+          "phase": 0
+        },
+        {
+          "units": [
+            {
+              "type": "Infantry",
+              "player": 1,
+              "movefactor": 2,
+              "attackFactor": 4,
+              "defenseFactor": 4,
+              "range": 1,
+              "row": -1,
+              "col": -1,
+              "turnOfAppearance": 0
+            },
+            {
+              "type": "Infantry",
+              "player": 2,
+              "movefactor": 2,
+              "attackFactor": 4,
+              "defenseFactor": 4,
+              "range": 1,
+              "row": -1,
+              "col": -1,
+              "turnOfAppearance": 0
+            }
+          ]
+        },
+        {
+          "hexes": [
+            {
+              "rows": 15,
+              "cols": 10,
+              "size": 25
+            },
+            {
+              "row": 1,
+              "column": 1,
+              "terrain": 3,
+              "numImprovements": 2,
+              "improvements": [7,2]
+
+            },
+            {
+              "row": 1,
+              "column": 2,
+              "terrain": 3,
+              "numImprovements": 2,
+              "improvements": [7,2]
+            },
+            {
+              "row": 1,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 1,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 1,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 1,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 1,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 1,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 1,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 1,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 2,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 2,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 2,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 2,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 2,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 2,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 2,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 2,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 2,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 2,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 3,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 3,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 3,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 3,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 3,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 3,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 3,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 3,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 3,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 3,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 4,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 4,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 4,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 4,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 4,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 4,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 4,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 4,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 4,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 4,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 5,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 5,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 5,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 5,
+              "column": 4,
+              "terrain": 3,
+              "numImprovements": 0,
+              "improvements": "[7,2]"
+            },
+            {
+              "row": 5,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 5,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 5,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 5,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 5,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 5,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 6,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 6,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 6,
+              "column": 3,
+              "terrain": 3,
+              "numImprovements": 0,
+              "improvements": "[7,2]"
+            },
+            {
+              "row": 6,
+              "column": 4,
+              "terrain": 3,
+              "numImprovements": 0,
+              "improvements": "[7,2]"
+            },
+            {
+              "row": 6,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 6,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 6,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 6,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 6,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 6,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 7,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 7,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 7,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 7,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 7,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 7,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 7,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 7,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 7,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 7,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 8,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 8,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 8,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 8,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 8,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 8,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 8,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 8,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 8,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 8,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 9,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 9,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 9,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 9,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 9,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 9,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 9,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 9,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 9,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 9,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 10,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 10,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 10,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 10,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 10,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 10,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 10,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 10,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 10,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 10,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 11,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 11,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 11,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 11,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 11,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 11,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 11,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 11,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 11,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 11,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 12,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 12,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 12,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 12,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 12,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 12,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 12,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 12,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 12,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 12,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 13,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 13,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 13,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 13,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 13,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 13,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 13,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 13,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 13,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 13,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 14,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 14,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 14,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 14,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 14,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 14,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 14,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 14,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 14,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 14,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 15,
+              "column": 1,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 15,
+              "column": 2,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 15,
+              "column": 3,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 15,
+              "column": 4,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 15,
+              "column": 5,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 15,
+              "column": 6,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 15,
+              "column": 7,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 15,
+              "column": 8,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 15,
+              "column": 9,
+              "terrain": 0,
+              "numImprovements": 0
+            },
+            {
+              "row": 15,
+              "column": 10,
+              "terrain": 0,
+              "numImprovements": 0
+            }
+          ]
+        }
+      ]
+    }
+  }
